@@ -63,7 +63,7 @@ This project showcases several core MLOps practices:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/AFA-Teaching/loan-default-prediction
+    git clone https://github.com/The-AI-Thinker/loan-default-prediction
     cd loan-default-prediction
     ```
 
